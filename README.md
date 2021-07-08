@@ -12,5 +12,6 @@ import speechRecognition .............
 
 
 
-With this, I have successfully made your very first virtual assistant 
-try to add other functionalities to J.A.R.V.I.S.(desktop assistant).
+With this, I have successfully made your very first virtual assistant .
+.
+WE CAN try to add other functionalities to J.A.R.V.I.S.(desktop assistant) as many as we want hence its the very basic AI Example.
